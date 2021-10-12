@@ -8,5 +8,8 @@
     ```
     https://raw.githubusercontent.com/hutscape/arduino-board-index/main/package_hutscape_index.json
     ```
-    ![](step.png)
+    ![](images/step.png)
 1. Restart Arduino IDE
+1. Go to Tools > Boards Manager > Search for Hutscape or Oak
+    ![](images/install.png)
+1. Install it!
