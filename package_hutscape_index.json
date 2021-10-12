@@ -9,7 +9,7 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "Hutscape",
-          "url": "https://github.com/hutscape/arduino-board-index/main/boards/hutscape-oak-arduino-boards-1.0.0.tar.gz?raw=true",
+          "url": "https://github.com/hutscape/arduino-board-index/raw/main/boards/hutscape-oak-arduino-boards-1.0.0.tar.gz",
           "archiveFileName": "hutscape-oak-arduino-boards-1.0.0.tar.gz",
           "checksum": "SHA-256: 5d01ab2185d0e8043170cbf827f913fd8a36cd7832aced72400737036a40e751",
           "size": "1430216",
