@@ -1,0 +1,7 @@
+.DS_Store
+
+# Add back file types ignored in global .gitignore
+!*.gz
+!*.zip
+!*.rar
+!*.tar
