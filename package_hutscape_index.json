@@ -76,7 +76,7 @@
               "packager": "arduino",
               "version": "4.0.0-atmel"
             }
-          ],
+          ]
         }
       ]
     }
