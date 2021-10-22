@@ -22,7 +22,7 @@
             {
               "name": "arm-none-eabi-gcc",
               "packager": "arduino",
-              "version": "4.8.3-2014q1"
+              "version": "7-2017q4"
             },
             {
               "name": "bossac",
@@ -59,7 +59,7 @@
             {
               "name": "arm-none-eabi-gcc",
               "packager": "arduino",
-              "version": "4.8.3-2014q1"
+              "version": "7-2017q4"
             },
             {
               "name": "bossac",
